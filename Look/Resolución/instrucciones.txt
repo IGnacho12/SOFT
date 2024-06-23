@@ -1,0 +1,1 @@
+Debes de ejecutar el .exe "CRU" después le das al botón add y estableces tando los pixeles para la resolución que deses como el refresco de fps de la pantalla
