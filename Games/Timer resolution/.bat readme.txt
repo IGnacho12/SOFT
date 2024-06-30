@@ -1,0 +1,1 @@
+Lo que hace el ejecutable .bat es crear una carpeta en la raiz del disco C: y guardar ahi el archivo de timer resolution para despues ejecutarlo automáticamente y dejarlo en segundo plano así no ocupa espacio en la barra de tareas
